@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 )
+
 // for n=5, k=3
 // f2 = f2 + f1 * 3
 // 0 0
